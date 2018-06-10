@@ -15,7 +15,7 @@ eyear = 2017
 path = './siprep{0}_{1}.csv'.format(syear,eyear)
 if os.path.exists(path):
     print('{0} file exists.'.format(path))
-    df = pd.read_csv(path)
+    df = pd.read_csv(path,index_col=0)
 else:
     print('{0} file doesn\'t exist.'.format(path))
     term = range(syear,eyear)
@@ -24,4 +24,4 @@ else:
     df.to_csv(path)
 
 #
-df
+df.head()
