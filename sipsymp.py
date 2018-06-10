@@ -9,8 +9,9 @@ class SipSymp:
     __brstr = '@'
 
     def __init__(self, year):
+        self.__year = year
         # URL の設定
-        self.__url = self.__base_url + str(year) + '/?cmd=program'
+        self.__url = self.__base_url + str(self.__year) + '/?cmd=program'
         # HTMLの読み込みと改行タグの置換
         fp = ul.request.urlopen(self.__url)
         html = fp.read()
@@ -34,10 +35,20 @@ class SipSymp:
 
     @property
     def titles(self):
-        # フィールドの設定
         self.__titles = self.__ser.str.split(self.__brstr,expand=True).iloc[:,0]
         return self.__titles
+
+
+    @property
+    def authors(self):
+        # フィールドの設定
+        self.__authors = self.__ser.str.split(self.__brstr,expand=True).iloc[:,1]
+        return self.__authors
 
     @property
     def url(self):
         return self.__url
+
+
+    def appendYear(self,ser):
+        return pd.DataFrame([ser,year])

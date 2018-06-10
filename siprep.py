@@ -6,16 +6,22 @@
 import pandas as pd
 from sipsymp import SipSymp
 
-# 対象年の設定
+# 対象年度の設定
 term = range(2008,2018)
 
+# 対象年度内のタイトル表
+df = pd.DataFrame({'Title': [], 'Year': []})
 for idx, year in enumerate(term):
     # SIPシンポオブジェクトのインスタンス化
     sipSymp = SipSymp(year)
+    # タイトルの取得
+    titles = sipSymp.titles.reset_index(drop=True)
+    nTitles = len(titles)
+    # 年度の数列化
+    years = pd.Series([ year for idx in range(nTitles)],dtype='int32')
     #
-    titles = sipSymp.titles
-    # 年度の追加とDataFrame化
-    # インデックスの振り直し
-    titles2 = titles.reset_index(drop=True)
-    print(sipSymp.url)
-    print(titles2)
+    table = pd.concat({'Title': titles, 'Year': years}, axis=1)
+    df = pd.concat([df, table],axis=0)
+df = df.reset_index(drop=True)
+
+#
