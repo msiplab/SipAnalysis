@@ -49,6 +49,22 @@ class SipSymp:
     def url(self):
         return self.__url
 
-
-    def appendYear(self,ser):
-        return pd.DataFrame([ser,year])
+    @classmethod
+    def titlesDuring(cls,term):
+        # 対象年度内のタイトル表
+        df = pd.DataFrame({'Title': [], 'Year': []})
+        for year in term:
+            # SIPシンポオブジェクトのインスタンス化
+            sipSymp = SipSymp(year)
+            # タイトルの取得
+            titles = sipSymp.titles.reset_index(drop=True)
+            nTitles = len(titles)
+            # 年度の数列化
+            years = pd.Series([ year for idx in range(nTitles)],dtype='int32')
+            #
+            table = pd.concat({'Title': titles, 'Year': years}, axis=1)
+            df = pd.concat([df, table],axis=0)
+            # インデックスのリセット
+            df = df.reset_index(drop=True)
+            df['Year'] = df['Year'].astype(int)
+        return df
