@@ -1,0 +1,975 @@
+,Title,Year
+0,チュートリアル講演: 最小分散低階数擬似不偏推定法(MV-PURE)とロバスト信号処理,2008
+1,Directions for Use and Efficient Computation of the Stochastic MV-PURE Estimator,2008
+2,An Improvement of Subgradient Projection Operator and Its Machine Learning Application,2008
+3,ハイパーH∞フィルタリング問題とその解法,2008
+4,ゼロ位相信号による雑音除去,2008
+5,高次統計量によるミュージカルノイズ尺度に基づくスペクトル減算法の短時間区間自動最適化,2008
+6,マルチフレーム特徴量を用いたＡｄａＢｏｏｓｔによる音声区間検出,2008
+7,コサイン距離規範k-meansを用いたステレオ音楽信号圧縮符号化法に関する評価,2008
+8,Subband decomposition based on a musical scale for a phase vocoder,2008
+9,振幅限定対数ラドン変換による足跡認識,2008
+10,表面積に注目した単眼カメラからの人数推定方法,2008
+11,位相限定相関法を用いた歯科X線写真の認証アルゴリズムとその性能評価,2008
+12,位相限定相関法を用いた手のひら認証アルゴリズムに関する検討,2008
+13,運筆情報を利用した古文書における仮名つづき文字認識の検討,2008
+14,スパース信号のインターレースサンプリングからの完全再構成に関する一考察},2008
+15,合成数分数倍サンプリングレート変換器のジグザグ多段構成法,2008
+16,DCT-SPCによる非整数サンプルシフト量推定のための双峰性モデルフィッティング関数,2008
+17,一般化調和解析における連続するフレームの関係,2008
+18,Scilab 5.0 の紹介,2008
+19,"チュートリアル講演: A Compact Speech Dialogue Module and Its Evaluation on a Personal Robot, PaPeRo-mini",2008
+20,パーティクルフィルタのCell Broadband Engineへの並列実装によるリアルタイム動画像追跡,2008
+21,多段粒子フィルタを用いた物体認識の Cell Broadband Engine への並列実装,2008
+22,量子化ステップにロバストなJPEG 2000符号化画像のビットストリームレベル同定法,2008
+23,ピーク変換における輝度値変換手法とJPEG 2000への応用,2008
+24,JPEG 2000符号化の並列分散処理システムにおけるカラーコンポーネントのビット配分手法,2008
+25,画素の復号期待値によるビットモデリングにもとづく汎用ビットプレン符号化,2008
+26,木構造を持つ基底系によるシフト不変非負スパースコーディング,2008
+27,Analysis of the Real-Measured MEG Phantom Data and EEG Quasi-Brain-Death Data Using EMD Method,2008
+28,CLUSTERING EMD COMPONENTS FOR MUSCULAR INTERFERENCE SEPARATION FROM EEG - A TIME/FREQUENCY APPROACH WITH DIFFERENT DISTANCE MEASURES,2008
+29,適応律動成分抽出法と脳波解析への応用,2008
+30,マージン最大化基準に基づく特徴選択と脳信号処理への応用,2008
+31,MEGと階層形ニューラルネットワークによるBCIにおけるチャネル最適化と特徴解析,2008
+32,Towards Brain Controlled Robotic Devices,2008
+33,阻止域可変FIRディジタルフィルタの設計のための繰り返し重み付き最小二乗チェビシェフ近似法,2008
+34,移動体通信における干渉波抑圧に対応した広帯域ビーム形成用2次元FIRフィルタの設計法,2008
+35,偏角原理に基づく安定性制約によって定まる実行可能領域,2008
+36,任意の分割数Mを持つ離散コサイン変換タイプII及びIVのブロックリフティング分解,2008
+37,データ依存型バイラテラルフィルタを用いた雑音重畳画像の強調法,2008
+38,降雨時の車両後方カメラにより取得された動画像における水滴除去に関する一考察 -ERアルゴリズムを用いたアプローチ-,2008
+39,Retinex理論に基づいた低演算量画像強調方式,2008
+40,複数色知覚の判別閾値測定に基づく色再現と色覚補正法,2008
+41,劣化画像のみを用いた荷重メジアンフィルタのGAによる設計手法の改良,2008
+42,エルミート補間多項式を用いた画像補間法の精度評価,2008
+43,スパースベイズ学習による画像拡大フィルタの獲得,2008
+44,カーネル正準相関分析を用いた消失テクスチャの復元に関する検討,2008
+45,画像の色相関に基づく荷重メディアンフィルタを用いたインパルス性雑音除去,2008
+46,有限語長近似を考慮したマルチレートシステムにおけるチェス盤ひずみの回避条件,2008
+47,参照画像を基にしたDWT-DCTを用いた電子透かしに関する検討,2008
+48,Blur Identification for Image with Linear Motion Blurred Objects in Still Background,2008
+49,細線化を用いた3Dモデルの四角形リメッシュ,2008
+50,車載ステレオカメラシステムによる歩行者検出の検討,2008
+51,幾何学的変換パラメタの推定による形状変化に頑健な多角形道路標識の認識,2008
+52,Pointing Gesture Recognition Using Stereo Vision in Video Conference Systems,2008
+53,背景予測及び移動量推定によるパン・チルトカメラでの前景分離,2008
+54,映像の構造解析に基づく高精度なシーン分割に関する検討 -撮像物体の特徴に着眼した構造解析の高精度化-,2008
+55,バイノーラルマイクを用いたライフログ映像のショット識別,2008
+56,音声情報と画像情報を用いたダブルトーク検出,2008
+57,音源数推定を用いた複数移動音源追尾の一検討,2008
+58,類似楽曲抽出のための音階遷移に基づく特徴量に関する検討,2008
+59,線形予測誤差を用いた骨導音声の品質改善,2008
+60,非定常雑音環境下におけるVADを用いた高速雑音推定法,2008
+61,多チャネル脳波の直交成分を用いたニューラルネットワークによるブレイン・コンピュータ・インターフェイス,2008
+62,マルチパス環境下における所望ユーザの信号推定を用いたアフィン射影型ブラインドマルチユーザ検出器,2008
+63,金沢大学21世紀COEプログラム　発達・学習・記憶と障害の革新脳科学の創成　―文理架橋型研究による挑戦の第一ステージ―,2008
+64,適応正規直交フィルタに関する一考察,2008
+65,双対の適応白色化フィルタを用いたLMSアルゴリズム,2008
+66,再帰・非再帰縦続型の適応フィルタによる同定性能の改善,2008
+67,適応的にパラメータを制御する可変ステップサイズIPNLMSの推定精度の向上法,2008
+68,適応型電力等分割フィルタ,2008
+69,チュートリアル講演: アレー信号処理手法による高分解能到来方向推定とアレー校正,2008
+70,Channel Ranking based Joint Symbols Detection for MQRD-PCM/MIMO-OFDM,2008
+71,DLS等化器を用いた時空間符号化伝送,2008
+72,地上デジタル放送移動受信のためのドップラー補償方式におけるアンテナブランチ間位相誤差補正処理に関する検討,2008
+73,RF認識システムにおける最尤系列推定を用いた並列組合せスペクトル拡散方式に関する検討,2008
+74,ビジュアルキー型画像検索のための注目領域抽出法,2008
+75,サッカー映像の意味解析に関する一手法 -ネットワーク解析を用いた試合展開における重要選手の抽出-,2008
+76,レベルセット法の動オブジェクト抽出への適用,2008
+77,DCT係数の正負符号を用いたMotion JPEG画像の動物体検出法とそのROC評価,2008
+78,Walsh変換を用いた階層的前景分離における背景モデルパラメータ統合方式,2008
+79,MIMO-OFDM受信機のためのMMSE時間領域チャネル推定法,2008
+80,直交射影原理と尖度を用いたブラインド等化アルゴリズムの提案,2008
+81,両チャネルに前処理ユニットを有するステレオエコーキャンセラ,2008
+82,スパース周期信号分解とその分解結果のクラスタリングによる1チャネル音声分離,2008
+83,雑音軽減マスクを用いた劣決定性音源分離の改良,2008
+84,楽音GHAを用いた楽器音抽出,2008
+85,音声のスパース性と局在性を用いた複数音源定位,2008
+86,観測音間の相互相関を用いた受聴者移動の検出,2008
+87,印刷画像へのデータ埋込と携帯電話のカメラを用いた検出,2008
+88,映像の特徴に注目したコミュニティ抽出に基づくWeb映像検索手法の提案,2008
+89,幾何的変形及び照度変化にロバストなテクスチャ検索,2008
+90,周辺差分符号画像とロバスト画像マッチングへの応用,2008
+91,拡張TVフィルタに適用するインパルス検知手法に関する検討,2008
+92,零交差数に基づく適応逆ノッチフィルタに関する検討,2009
+93,再生核ヒルベルト空間における標本化定理,2009
+94,代数方程式の根を用いた正弦波パラメータの推定,2009
+95,分離核近似による線形系逆問題の計算量削減,2009
+96,Using Time-Varying Soft-Thresholding Techniques for Adaptive Identification of Sparse Systems,2009
+97,多項式係数の低減を考慮した可変FIRフィルタの一設計法,2009
+98,安定な有理伝達関数の既約性とIIRフィルタの設計への応用,2009
+99,通過域平たんかつ阻止域L1近似の直線位相FIRフィルタ,2009
+100,指向性GenLOTにおける基底設計とブロック処理,2009
+101,DCT符号相関と対称畳み込みの関係について,2009
+102,BCIにおける多チャネル脳波の特徴抽出法の検討,2009
+103,脳波のチャネル間直交化と階層形ニューラルネットワークの多重並列構成によるBCI,2009
+104,人体伝播信号を用いた個人認証の試み,2009
+105,脳コンピュータインターフェイスのための位相を用いた律動成分抽出法,2009
+106,EMD technique for a motor imagery based BCI System,2009
+107,ISTA/FISTA-type algorithms in the presence of an additional convex constraint,2009
+108,Probability Optimization for Probabilistic Diffusion LMS Algorithms,2009
+109,Alternating minimization techniques for the recovery of low-rank matrices in the presence of sparse errors,2009
+110,非整数階微分を用いた変分法によるオプティカルフローの局所連続性の計算,2009
+111,不確定さを含むむだ時間システムに対する多変数内部モデル制御系の設計,2009
+112,再帰型ラティスフィルタのシステム同定への応用,2009
+113,A Fast Noise Suppression Algorithm using Kalman Filter with Colored Driving Source,2009
+114,非線形エコーキャンセラのための周波数領域相関モデルにおける回帰係数更新法,2009
+115,A Closed-Form Solution to the Delay Constraint in Noise Cancellation and Feedback Signal Separation,2009
+116,対数応答型イメージセンサにおける階調数削減の一手法,2009
+117,推測復号処理におけるDCT係数を用いた推測手法,2009
+118,アクティブグリッドを用いたサッカー映像におけるパス可能領域の時刻変化の抽出,2009
+119,電子顕微鏡画像のための位相限定相関法を用いた倍率推定アルゴリズムとその評価,2009
+120,携帯端末による情報抽出を目的とした印刷画像へのデータ埋め込みと検出法,2009
+121,重み付き最小二乗法によるGCDブラインドデコンボリューションの耐雑音性能の向上に関する一考察,2009
+122,ゼロ位相信号の複写と貼付による広帯域雑音の除去,2009
+123,スペクトル包絡に基づく周期性雑音の推定,2009
+124,モルフォロジカル成分分析による音声信号のためのインパクト雑音除去,2009
+125,RLS 型適応アルゴリズムのためのスパース性に基づく可変忘却係数アルゴリズム,2009
+126,ニューラルネットワークを用いた推測航法とカルマンフィルタによるナビゲーションシステムの性能解析,2009
+127,他ユーザ干渉抑圧性能を向上したWL-MOE適応フィルタの設計,2009
+128,An Analysis for a Certain Family of Adaptive Filtering Algorithms Based on Variable-metric Adaptive Projected Subgradient Method,2009
+129,クロス形状フラクタルを用いた画像の高解像度化,2009
+130,非線形フィルタによる成分分離を用いた解像度変換画像の高画質化に関する研究,2009
+131,FFT全探索ブロックマッチング法のサブピクセル精度への拡張,2009
+132,独立成分分析を用いた繊維汚れの鮮明化,2009
+133,観測音を用いた受聴者移動の検出,2009
+134,一般化サブスペース法を用いた適応音声強調,2009
+135,MR騒音に対するANCシステムの実現　〜DXHSアルゴリズムの検討〜,2009
+136,携帯端末での音声信号実時間処理系の実装と課題 -iPhone OS 3.0 への周波数領域両耳聴モデル実装の試み-,2009
+137,GAを用いた高速ウェーブレット変換アルゴリズムの提案,2009
+138,ＴＬＳに基づくブラインド推定アルゴリズムの提案,2009
+139,半正定値計画問題を用いたImproperな信号のためのブラインドWL等化,2009
+140,ブラシ付きセンサレスDCモータの回転速度推定用適応フィルタの帯域幅に関する検討,2009
+141,ウェーブレット変換を用いたH.264 符号化画像の高画質化に関する研究,2009
+142,Total Variation Filter を用いた動画像圧縮用プレフィルタに関する一検討,2009
+143,H.264向けRDOに基づいた動きベクトル検出における適応的評価値とその性能評価,2009
+144,映像の構造解析に基づくシーン分割の高精度化に関する検討 -音声認識結果に基づく特徴量の導入-,2009
+145,近似ベイズ推定とその応用例,2009
+146,リンク解析に基づくWeb上の映像の階層化とその検索への応用,2009
+147,重みマスクを用いたKLT Tracker による動きを考慮した特徴点抽出法,2009
+148,詳細な予測補間を用いた四分木画像分割手法,2009
+149,動きのある多重露光画像を用いたカメラレスポンスカーブの推定,2009
+150,位相差顕微鏡映像における歯周病菌の追跡,2009
+151,超解像オプティカルフローのための変分計算,2009
+152,凝縮・希釈を利用した動画像符号化,2009
+153,多重零点光ビームを用いた６軸変位計測のための複素関数論的特徴抽出に関する 一考察,2009
+154,スパースコーディングにおける初期基底画像の一生成法,2009
+155,エネルギー汎関数最小化によるメッシュ・ブロックマッチング複合型動き補償,2009
+156,適応型カーネル回帰法を用いた画像補間,2009
+157,普及型FPGAを用いた実時間KLT Trackerの低コスト実装,2009
+158,車載ステレオカメラを用いた障害物検出に関する検討,2009
+159,MSE を指定可能なレート制御に基づく高品質なJPEG2000画像符号化,2009
+160,帯域抽出によるNMRにおける偏分布極の高精度な推定法,2009
+161,LPWTを用いた顔特徴抽出法の個人認証への応用,2009
+162,鹿児島から宇宙へ−超小型衛星の未来予想−,2009
+163,TCP/IPネットワークを介した非同期マルチチャネル信号を用いた雑音低減手法の検討 - 雑音推定誤差と自動音声認識への影響 -,2009
+164,混合ガウス分布モデルのための区間計算に基づくEMアルゴリズム,2009
+165,A consideration on time-frequency masking methods for speech separation,2009
+166,Blind Source Separation using Second-Order Statistics of Low and High Frequency Halfbands,2009
+167,時間サンプリングされた車両動揺データの距離サンプリング変換に関する研究,2009
+168,パイロット信号によるOFDMスパース通信路の推定,2009
+169,全体最小二乗基準基を用いた線形予測法によるFID信号の周波数と減衰率の推定,2009
+170,仮想回り込み経路を用いたビームフォーミングによる無線中継回り込み波キャンセラ,2009
+171,カラー画像平滑化のための色線形性を考慮した異方性拡散,2009
+172,非線形拡散を用いた高性能インパルス検知手法の提案,2009
+173,数理計画法を用いた変分法に基づくオプティカルフロー計算の最適化,2009
+174,ソフトウェア／ハードウェア協調シミュレーレーターによるRetinex画像強調処理の検討,2009
+175,A New Distance Measurement Method Using Two Ultrasonic Signals for Distance-Based Howling Canceller,2009
+176,MFCCを用いた楽器音及び音階の推定法,2009
+177,楽音のスペクトル包絡を利用した音高推定,2009
+178,音響OFDMの音質改善に関する一提案,2009
+179,MIMO通信システムのためのQR分解を利用したReduced MLDの検討,2009
+180,アプリケーション要求に適したパケットレベルLDGM符号の構成と性能評価,2009
+181,A New Problem Formulation of MIMO Antenna Selection: Iterative Minimization of the Moreau Envelope of $\ell_1$-norm under Nonlinear Constraints,2009
+182,ダミー素子を用いたアレーアンテナのブラインドキャリブレーション,2009
+183,歯科X線写真とCTデータを用いた個人認証アルゴリズムの検討,2009
+184,スペクトラム拡散と巡回畳み込みによる高効率なランダム射影アルゴリズム,2009
+185,スパース表現に基づく逆写像を用いた劣化画像の再構成に関する検討,2009
+186,有色性駆動源を含むカルマンフィルタ理論を用いた画像復元手法,2009
+187,ラプラス混合モデルを仮定した誤差分離に基づくステレオエコーキャンセラの検討,2010
+188,Convergence Analysis of Stereo Acoustic Echo Canceller with Pre-Processing in Both Channels,2010
+189,SIMO FIR チャネルのブラインド MAP 推定,2010
+190,An Adaptive Noise Canceller with Adaptive Delay Compensation for a Distant Noise Source,2010
+191,On Acoustic Feedback Neutralization in Digital Hearing Aids,2010
+192,複数スペクトログラムに基づく信号の変動スペクトル表現と それに基づく信号の新しい分析・分離手法の検討,2010
+193,時変複素音声分析を用いた基本周波数推定の研究,2010
+194,高・低解像度ウェーブレット変換信号を用いたVAD分析,2010
+195,Time-Stretchingを目的としたPhase Vocoderの実装法に関する考察,2010
+196,指向性GenLOTによる傾斜平面方向検出,2010
+197,２次元非可分型離散ウェーブレット変換の方向適応型リフティング実現,2010
+198,偶数次電力対称IIRフィルタバンクの回路構造の導出,2010
+199,Automated Microwave Filter Tuning by Successive Optimization of Zeros of Return Loss Characteristics,2010
+200,ウェーブレット変換を用いた画像拡大に関する研究,2010
+201,Acceleration of Adaptive Proximal Forward Backward Splitting Method for Sparse System Identification,2010
+202,L1ノルム最小化に基づくスパースな分数間隔等化手法,2010
+203,A Note on Adaptive Projected Subgradient Method Under Linear Constraints,2010
+204,動的に結合量を調整する結合係数比例型NLMSアルゴリズムの諸特性,2010
+205,可変忘却係数をもつ2マイクロホンによる複数音源定位,2010
+206,A Statistical Characterization of Carrier Frequency Offset and Timing Offset for Synchronization in OFDM Systems,2010
+207,Relaxation of Ill-Posedness for Estimating Noisy Autoregressive Models,2010
+208,ブロック実行型周波数領域適応アルゴリズムにおける加算数削減に関する検討,2010
+209,ウェーブレット変換を用いた1/fゆらぎ信号のカテゴリー分解に関する研究,2010
+210,有色駆駆動源付きカルマンフィルタを用いたMIMO-OFDMチャネル推定,2010
+211,組み合わせ法によるOFDM伝送のピーク電力歪みに対する一検討,2010
+212,カーネル適応アルゴリズムの低演算量化のための辞書データ作成法,2010
+213,全最小二乗法に基づくブラインド推定アルゴリズムの考案,2010
+214,Echo Cancellation by Separating Echo from Near End Signal Using Independent Component Analysis,2010
+215,線形予測フィルタを用いたANCシステムの安定性向上に関する検討,2010
+216,ノッチの位置が可変な2チャネル不等間隔FIRフィルタバンクの一設計法,2010
+217,A Noise Spectrum Estimation Method Based on 2-Dimension Dynamical VAD Used in Noise Spectral Suppression,2010
+218,伝送効率と推定精度を同時に向上させる等化器,2010
+219,Blending Transform-Domain and Proportionate Adaptive Filtering Algorithms for Sparse Linear System Excited by Colored Input,2010
+220,短時間フーリエ変換に基づく非線形特性の近似と適応フィルタへの応用,2010
+221,2つの信号の位相スペクトルの差の微小変動が位相限定相関関数に与える影響,2010
+222,同一周波数で異なる減衰定数を含むFID信号の高精度な周波数と減衰率の推定方法,2010
+223,宇治平等院の平成の大修理について,2010
+224,On Use of Multiple Kernels in Adaptive Learning --- Extended Reproducing Kernel Hilbert Space with Cartesian Product,2010
+225,ハイパーH∞フィルタリング問題の解の性質,2010
+226,圧縮センシングの遠隔制御系への応用,2010
+227,An Evaluation of Compressive Sensing Techniques for Practical Image Processing,2010
+228,A Closed-Form DOA Estimation Formula of Multiple Coherent Waves For Uniform Linear Array,2010
+229,IIR Adaptive Array via Estimating Spatial Delay of Desired Wave Direction,2010
+230,マルチキャリア適応フィルタを用いたMIMO-OFDM伝送の干渉除去,2010
+231,SC-FDMA通信システムのための最尤復号に関する検討,2010
+232,画素の接続関係を考慮した非線形画像リサイズ,2010
+233,Generalized selective data pruning with piecewise linear approximation of seam carving,2010
+234,混合ARモデルとそのロスレス符号化に関する一検討,2010
+235,可逆トーンマッピングを用いた二層HDR符号化,2010
+236,低レベルの基本周波数をもつ楽音に有効な逆ノッチフィルタによる音高推定,2010
+237,可変除去帯域幅を持つ非整数遅延IIRくし型フィルタの設計,2010
+238,SONICアルゴリズムを用いたANCシステムのMR騒音に対する検討,2010
+239,nVIDIA GeForceグラフィックスプロセッサを用いたFIR適応フィルタの並列シミュレーション,2010
+240,人間の視覚的注意を予測するモデル　〜動的ベイジアンネットワークに基づく最新のアプローチ〜,2010
+241,画像修復におけるＦＦＴ高速ブロックマッチングの応用,2010
+242,高精度な画像マッチング手法の検討,2010
+243,DCT領域での相関計算法と白色化信号の効果,2010
+244,GPGPUにおける動き探索の空間的ベクトルサイズ相関性を活かしたスケジューリング手法,2010
+245,過剰に高次な推定系における推定極からの極の選抜による極推定法の耐雑音性の検証とNMRスペクトル解析への応用,2010
+246,CSP-ECOC Combination On BCI Application,2010
+247,NNを用いたBCIにおける自己組織化マップによる多チャネル脳波の特徴抽出法の検討,2010
+248,運動想像時脳波の空間-周波数成分の重み付けによる識別,2010
+249,全域通過形ディジタルフィルタのL2感度最小実現と平衡実現との等価性,2010
+250,Novel Linear Phase Condition for Digital Filter,2010
+251,通過域平たんかつ阻止域L1近似の直線位相帯域通過FIRフィルタ,2010
+252,ステップ応答を用いた状態空間形の可変低域通過ディジタルフィルタの実現,2010
+253,Morphological Dual Primitive Estimation of Textures,2010
+254,構造要素の制約に基づくモルフォロジカル正則化,2010
+255,TV Image Denoising and Noise Response Analysis,2010
+256,テクスチャ画像における劣化画像のみを用いた荷重メジアンフィルタのGAによる設計手法の検討,2010
+257,未知観測に対する二次制約を考慮した線形系逆問題,2010
+258,Improvement of Halftone Visibility by Convex Optimization Techniques,2010
+259,Douglas-Rachford splitting-type algorithms for Tensor Completion and Principal Component Pursuit,2010
+260,フーリエ余弦基底を用いた単位長自由度有限信号の標本化,2010
+261,フーリエ位相限定相関法を用いた相似地震の検出〜ＧＰＵ高速並列計算によるリアルタイム処理への応用〜,2010
+262,Wavelet based Bi-Histogram Equalization for Color Image Enhancement,2010
+263,画像における人検出のためのFFT特徴量とその評価,2010
+264,MDCT係数のベクトル量子化指数変調による電子透かし,2010
+265,ウェーブレット変換を用いた視覚復号型秘密分散に基づく電子透かし法,2010
+266,誤検出率指定下におけるDWT利用型画像電子透かし法の検出性能改善,2010
+267,動画像圧縮における前フレームの統計的特徴量を用いた動きベクトル探索法,2010
+268,フィルムグレイン再現モデルとディジタルシネマへの適用,2010
+269,部品検査のための画像重ね合わせ手法の検討,2010
+270,単語出現頻度によるブログ記事の有用性判断,2010
+271,Google Trendsを用いた株売買に適した時機の推定,2010
+272,拡張TVフィルタにおけるλマップの生成に関する検討,2010
+273,有色性駆動源を用いた2次元カルマンフィルタによる高速な劣化画像復元手法,2010
+274,二変量経験的モード分解を用いた時間周波数マスキングによる音源分離手法,2010
+275,モノラル混合楽器音の音階推定法,2010
+276,ネットワークを利用した実時間音場再生システム,2010
+277,擬似スペクトル法を用いたエルミート補間による高精度画像補間法の検討,2010
+278,DoG画像を用いた構造物におけるひびの自動検出,2010
+279,類似性と配置に基づく部分画像検索の提案,2010
+280,ロバストなLPWT顔特徴量を用いた顔認証法,2010
+281,Sampling Theory and Practice: 50 Ways to Sample your Signal,2010
+282,電波科学による減災:地中レーダによる地雷検知から 見えること,2010
+283,高精度地中レーダによる遺跡調査,2010
+284,映像配信のためのProMPEGとLDGMの連接誤り訂正符号の構成,2010
+285,時空間混合ガウスモデルを用いた監視カメラ向け背景分離符号化,2010
+286,区間計算を用いた混合ガウス分布モデルクラス判別器によるAdaboost,2010
+287,準教師付き局所フィッシャー判別分析による顔認識,2010
+288,固有値計算分野においての実用的なニーズに対する数値解法,2010
+289,任意速度で等速直線運動する目標のレンジ移動を補償するチャープパルス圧縮方式,2010
+290,雑音環境下単語音声認識のための自己相関および2重自己相関に基づくスペクトル表現,2010
+291,複数地点における異常検出のための環境電磁波HMM間の関係,2010
+292,観測信号の特徴を考慮した混合モデルによるドップラー気象レーダの気象データ推定,2010
+293,λ曲面モデルを用いた空間適応型TVフィルタの実現に関する検討,2011
+294,ユーザー指定の制約を用いたグリッドベースコンテンツ適応型画像リサイズ,2011
+295,Blockwise Low-Rankness Based Optimization for Missing Region Recovery,2011
+296,スイッチング状態空間モデルと変分ベイズ法による画像の修復と分割,2011
+297,擬似スペクトルエルミート補間（PS-HI）法による任意サイズ画像の高速・高精度補間の検討,2011
+298,一般化ガウス分布仮説とキュムラントの加法性を利用した雑音中からの音声カートシス逆推定,2011
+299,経験的モード分解と変調スペクトル分析を用いたロバスト音声区間検出法の検討,2011
+300,モード展開法を用いた3次元声道モデルの損失評価,2011
+301,A Robust Voice Activity Detection based on Long-term Mean Power Spectrum,2011
+302,独立成分分析における源信号が一様分布の場合のカルバック・ライブラー情報量に基づく評価関数の導出,2011
+303,On the Accuracy and Angular Dependency of DOA Estimation Algorithms for Coherent Sources,2011
+304,線形位相FIRフィルタによるくし型フィルタの極零点制御,2011
+305,すべての2次モードが等しいディジタルフィルタの伝達関数,2011
+306,SVMをベースとした重み付きファジィ判別分析による顔認識,2011
+307,対象の見えの変化に対応した色情報に基づくオブジェクトトラッキング法,2011
+308,位相に基づく画像マッチングを用いた利便性・受容性・識別性能の高い指関節認証アルゴリズムの検討,2011
+309,静止画像におけるエッジ検出，色相判定，モルフォロジー演算を複合した人物検出,2011
+310,音声信号の時間軸伸縮と残差信号のパルス化,2011
+311,非線形3次IIRフィルタを用いた動電型スピーカシステムの非線形歪み補正法に関する検討,2011
+312,AFPを用いたVQIM型電子透かしの最適パラメータの推定,2011
+313,スペクトル領域フィルタリングと正規化処理を施したエネルギー特徴量が認識性能に与える影響,2011
+314,ミュージカルノイズフリー雑音抑圧の一般化理論とそのブラインド信号抽出への応用,2011
+315,最尤推定を利用した雑音を含むデータからのインパルス列再構成,2011
+316,区間計算を用いた混合ガウス分布モデルクラス判別器による誤り訂正出力符号,2011
+317,識別モデルに基づくスパース信号分解とその周期信号分離への応用,2011
+318,An Insight into L-p Penalized Least Squares Problems,2011
+319,A Stable Sign Estimation for Algebraic Phase Unwarraping,2011
+320,CELLプロセッサによるTotal Variation正則化フィルタの実装,2011
+321,Total Variation 正則化を用いた超解像手法の CELL プロセッサへの実装,2011
+322,Total Variation 手法を利用した高速な学習型超解像,2011
+323,高ダイナミックレンジ圧縮のためのエッジを考慮したローカル/グローバルトーンマッピング手法,2011
+324,Fidelity estimation of online video based on video quality measurement and web information,2011
+325,ミュージカルノイズの生成による雑音抑圧,2011
+326,Experimental Validation of an Adaptive Noise Canceller with Adaptive Delay Compensation for a Distant Noise Source,2011
+327,雑音混入音声スペクトルのエントロピーと分散によるVADと雑音スペクトルサプレッション法への応用,2011
+328,線形予測フィルタを用いたANCシステムの安定性向上に関する検討,2011
+329,MRIノイズのための準適応フィードバックアクティブコントロール,2011
+330,スライディングウインドRLSアルゴリズムとその高速アルゴリズムの不定行列表現,2011
+331,位相スペクトルの差の確率的変動に対する2次元位相限定相関関数の挙動,2011
+332,トレース正規化による非負定値エルミート行列の同時対角化の性能改善,2011
+333,高速ハートレー変換に基づく高速なDCTアルゴリズム,2011
+334,回路理論における一次元格子の固有振動と共鳴現象,2011
+335,新しいハイブリッド型電子透かしの性能評価と応用,2011
+336,マルチビット埋込みと誤検出確率指定による検出が可能な画像電子透かし法,2011
+337,携帯端末の利用を考慮した印刷画像へのデータ埋め込みと検出の一手法,2011
+338,対数極座標変換を用いた印刷画像へのデータ埋め込みと検出,2011
+339,逐次更新ヒストグラムに基づく複数音源定位の一検討,2011
+340,局在音声エネルギー追従型音源定位法の一検討,2011
+341,時間遅延を含む混合過程における単一話者区間に基づくDUET音源分離,2011
+342,Kernel density estimator approach for solving underdetermined source localization problem from arbitrary microphone configuration.,2011
+343,単一チャネル脳波計とニューラルネットワークによるブレインコンピュータインタフェイスの性能解析,2011
+344,変分ベイズ法を用いた混合信号の周波数推定,2011
+345,Multi-Kernel Adaptive Filtering for Nonstationary Time-Series Data Prediction,2011
+346,An exact convergence analysis of the modified PAST algorithm for estimating minor component,2011
+347,一般化メディアンカット量子化とその応用,2011
+348,モバイル端末における超低ビットレート映像符号化,2011
+349,Reinhardトーンマッピング法を用いた高ダイナミックレンジ画像符号化,2011
+350,QuadtreeとSBCを用いた高能率プログレッシブ画像圧縮符号化,2011
+351,Acoustic Echo Cancellation By Considering Multipath Sparseness,2011
+352,Time-Varying Noise Estimation Using Only Current Frame for Speech Enhancement,2011
+353,非線形エコーキャンセラを構成する周波数領域相関モデルにおける回帰係数更新法の改良,2011
+354,大きな非線形エコーを抑圧するための２マイクエコーキャンセラ,2011
+355,信号源の組合せが変動するブラインド信号源分離の回路構成と学習法,2011
+356,A Learning Algorithm for Blind Source Separation Mixing Feedforward and Feedback,2011
+357,A Consideration of Blind Estimation Algorithm Based on TLS Using Orthogonal filter,2011
+358,Root-MUSIC法およびMODE法を用いたアレー補間におけるDOA推定精度の検討,2011
+359,Performance of TR-MUSIC Imaging with Uniform Circular Array using Time-Domain Gating Technique,2011
+360,パターンスペクトル共起行列を用いた幾何的変形にロバストなテクスチャ特徴量の抽出,2011
+361,冗長ウェーブレット変換と周波数成分に応じた強調による画像の拡大強調,2011
+362,画像処理によるはんだ付け外観検査のための特徴量削減と良否識別,2011
+363,基底の選別とグラムシュミットの直交化を用いたPCA-L1,2011
+364,多重スケールコントラスト強調を用いた二層HDR符号化に関する検討,2011
+365,JPEG2000に基づくHDR画像の効果的圧縮法,2011
+366,方向適応型シームマージングによるコンテンツ適応型画像リサイズ,2011
+367,ZFRを用いた時変複素音声分析に基づくF0推定の検討,2011
+368,音声信号の音程を再現した器楽音の生成,2011
+369,音域制限を利用したヴォーカルメロディの抽出,2011
+370,Power Inversion法の広帯域信号への拡張,2011
+371,正規直交フィルタを用いたブラインド信号分離,2011
+372,正弦波入力のシステム同定におけるNLMSアルゴリズムの収束特性,2011
+373,L1ノルムのMoreau envelopeを用いたスパースシステムの適応同定法に関する一考察,2011
+374,マルチスケール変換を用いた画像フュージョン,2011
+375,Structured Total Least Squares基準を用いた雑音に頑健な FID信号の高精度な周波数と減衰率の推定方法,2011
+376,口腔悪性腫瘍における病理診断サポートのための口腔病理画像解析,2011
+377,Stiefel多様体おける平均演算,2011
+378,位相スペクトルの差の確率的変動に対する位相限定相関関数の挙動,2011
+379,画像データベースにおけるキーワードの階層抽出に関する検討,2011
+380,マルチパーティプロトコルを利用した暗号化領域における画像検索,2011
+381,ユーザの関係性に基づく新たなWebコミュニティ抽出手法に関する一検討,2011
+382,指数関数予測を用いた高速逐次射影法によるナイキストフィルタの設計法,2011
+383,Design of DTCWT with Improved Analyticity and Frequency Selectivity,2011
+384,Simple and Consistent Factorization of Conjugate Symmetric Hadamard Transform,2011
+385,統計力学的手法によるFiltered-X LMSアルゴリズムの解析,2011
+386,スパース性に基づく未知系推定を用いたRLS型適応フィルタの追従特性改善法,2011
+387,複素適応フィルタを用いたドップラー気象レーダの干渉波除去,2011
+388,Sparse Adaptive Filters Based on Soft-Thresholding with Lp-Norm Inspired Weighting Techniques,2011
+389,暗部の詳細復元とノイズ除去を実現する多重露光画像統合法,2011
+390,混成指向性重複直交変換を利用した画像ノイズ除去,2011
+391,符号ストリームを考慮したMotion JPEG 2000MDC画像のRTP伝送における画質劣化抑制法,2011
+392,Adaptive Feedback Channel Equalizer for OFDM-Based Wireless Repeater System,2011
+393,Control of a Mobile Robot via Wi-Fi with an SSVEP-Based BCI,2011
+394,nVIDIA GeForceグラフィックスプロセッサを用いたRLS適応フィルタの実現,2011
+395,DFT-spread MIMO-OFDM通信システムのためのTomlinson-Harashima precodingの一検討,2011
+396,縦続形の可変帯域阻止フィルタを用いた狭帯域雑音除去システム,2011
+397,係数比例型適応アルゴリズムのブロック直交射影への拡張,2011
+398,IIR Adaptive System Identification based on Particle Swarm Optimization with Improved Cost Function,2011
+399,A Weight Controlling Technique for Hybrid Sparse Adaptive Filters,2011
+400,数種類の Total Variation 正則化手法の収束速度の比較検討,2011
+401,Total Variation 正則化フィルタの基本的性質,2011
+402,露出ブラケット画像融合による拡張ダイナミックレンジ画像の生成,2011
+403,行列の一般化低ランク近似の対称化,2011
+404,情報漏れを抑制した2段階セキュリティ視覚秘密分散法,2011
+405,心電図の高次スペクトル解析を用いた心電図評価法の一検討,2011
+406,A BCI System Based on Wavelet Decomposition and Support Vector Machine with a Dual-Class Voting Mechanism,2011
+407,脳波電極間の距離情報を用いた正則化,2011
+408,多線形部分空間法による脳波(EEG)における筋電図(EMG)パターンの識別,2011
+409,スペクトラム逐次更新法による高性能パルスオキシメータの開発,2011
+410,位相差顕微鏡映像における歯周病菌の追跡について,2011
+411,混成指向性重複直交変換を利用した画像スパース表現,2011
+412,多方向・多色照明を利用した自律走行ロボットのための映像オドメトリ,2011
+413,テクスチャ紙片の着色法とその貼り絵風画像生成への応用に関する検討,2011
+414,Grassmannian上のMahalanobis距離とその拡張に関する検討,2011
+415,HDR画像におけるトーンマッピング関数の多段表現,2012
+416,ディジタル画像の色彩類似度に関する研究,2012
+417,HDR監視システムにおける物体追跡を考慮したトーンマッピングの検討,2012
+418,輝度・彩度アンシャープマスキングによるカラー画像強調,2012
+419,A Robust Watermarking Scheme for Digital Audio Based on ICA and DWT-SVD,2012
+420,A Study on Environmental Sound Recognition Using Mel Frequency Cepstral Coefficients and Support Vector Machines,2012
+421,マイクロホンアレイを用いた音響OFDMの音源依存性の検討,2012
+422,最適解選択を用いた同時対角化解析解の性能評価,2012
+423,２次位相差をもつ信号の位相限定相関関数の解析,2012
+424,方向統計学に基づく位相限定相関関数の統計的解析,2012
+425,A Stabilization of Algebraic Phase Unwrapping by Subresultant,2012
+426,相補自己相関を利用した、ディジタル変調信号の位相雑音のスペクトル推定,2012
+427,重合格子を用いた極座標系における画像処理,2012
+428,Retinexと幾何平均を用いたマルチショット画像合成,2012
+429,ステレオ動画像のための動き推定と画像対応付けを組み合わせた視差マップ生成手法の検討,2012
+430,Spatiogramに基づくパーティクルフィルタを用いた多色/非剛体物体のトラッキング法,2012
+431,Volterraフィルタを用いたスピーカの線形化手法に関する検討,2012
+432,非線形歪み補正に影響を与える動電型スピーカの非線形パラメータに関する検討,2012
+433,非線形3次IIRフィルタによる動電型スピーカシステムの3次非線形歪み補正に関する検討,2012
+434,音源信号の再帰的補正処理による非線形歪の低減法とそのスピーカシステムへの適用,2012
+435,An adaptive filtering based on a primal-dual splitting characterization,2012
+436,FXLMSアルゴリズムの統計力学的解析とモデル条件の緩和,2012
+437,A Data-Reusing Kernel Adaptive Filter Based on Parallel Hyperplane Projection Along Subspace,2012
+438,Kernel RLS-DCD 適応フィルタの収束特性に関する検討,2012
+439,モルフォロジフィルタを正則化項に用いた画像復元,2012
+440,フラッシュ画像を用いた画像統合による低照度域の復元,2012
+441,An Image Restoration by the MV-PURE with SURE Based Rank Selection,2012
+442,A likelihood constrained Poissonian image recovery via the hybrid steepest descent method,2012
+443,GPUによる時間領域差分法による声道の音響数値解析とOpenGLによる解析結果の即時可視化,2012
+444,非対称な壁インピーダンス分布を考慮した3次元矩形声道モデル,2012
+445,調波間の干渉に基づく周期信号を対象とした位相推定法の提案,2012
+446,雑音環境下における周期信号の基本周波数推定のためのCramer-Raoの下界,2012
+447,適応射影劣勾配法を用いた能動騒音制御システムに関する一考察,2012
+448,Adaptive Projected Subgradient Method for Expanded Real Systems,2012
+449,A Variable-Metric NLMS Algorithm for Sparse Systems and Colored Inputs,2012
+450,ハードクリップ関数を用いたカスケード型非線形適応フィルタの周波数領域における実現について,2012
+451,Directional Image Decomposition Using Retargeting Pyramid,2012
+452,改良構成に基づくノイズ分散推定,2012
+453,バイラテラル最小値フィルタによる画像のヘイズ除去,2012
+454,２次元高域フィルタを用いた画像の手ぶれ補正,2012
+455,非負値行列分解と基底ベクトルクラスタリングに基づく単一チャネル音楽信号分離,2012
+456,スパースペナルティを課した信号識別モデルによるスパース周期信号分解,2012
+457,NMFを用いた自動採譜における基底ベクトル数の決定手法,2012
+458,非負値行列因子分解NMFの多チャンネル拡張,2012
+459,高速ハートレー変換に基づくFFTアルゴリズム,2012
+460,実・複素行列分解に基づく共役対称複素アダマール変換の完備性に関する検討,2012
+461,二次元非分離離散対称タイトフレームのためのラティス構成,2012
+462,信号の有理数スケーリングのための合成フィルタバンクの一設計法,2012
+463,A Robust Image Watermarking Algorithm Based on DCT-SVD and Arnold Scrambling,2012
+464,複雑な変形にロバストな画像特徴量の抽出,2012
+465,次元数の異なるベクトルデータの次元削減,2012
+466,DirLOTのツリー構成と組込み実装,2012
+467,前処理を行うブラインド音源分離手法の提案,2012
+468,マイクロホンアレイを用いた音源定位・分離の統一的ノンパラメトリックベイズモデル,2012
+469,ポスター会議発表のマルチモーダルアーカイブを目的とした音源分離と評価,2012
+470,ノイズ除去を利用した単一話者区間推定による2チャネル音源分離法,2012
+471,Zero-Forcing Tomlinson-Harashima precoding MIMO通信システムのための伝送速度最大化に関する検討,2012
+472,非同期MC-CDMA方式における斜交射影を用いたブラインド検出器,2012
+473,Adaptive Channel Equalizer of Multi-Path Feedback Channel for OFDM-Based Wireless Repeater System,2012
+474,DCRにおける新しいI/Q不均衡推定法,2012
+475,HV選択による直線ステップエッジの最適推定,2012
+476,Variants of the Alternating Direction Method of Multipliers with Rate of Convergence $\mathcal{O}(1/k)$,2012
+477,モルフォロジー演算を用いた身体部分識別による人物範囲の検出,2012
+478,時間領域の制約を考慮した準最適許容誤差推定法を用いたナイキストフィルタの設計法,2012
+479,ヒューリスティック解法によるマイクロホンアレーの指向性設計の一検討,2012
+480,ACOによる離散係数FIRフィルタ設計の性能改善,2012
+481,高速ウェーブレット変換アルゴリズムのためのGAを用いたツースケール数列生成手法の提案,2012
+482,オーバーサンプリング方式にTLSを適用したブラインド等化法の提案,2012
+483,ARモデルのためのオーバーサンプリング方式に基づくブラインド同定手法の提案,2012
+484,入出力信号間の相関関数を利用したPSOに基づくステレオエコーキャンセラ,2012
+485,Single　Sensor Harmonic Interference Canceler (SSHIC),2012
+486,信号源の数と組み合わせが変動するブラインド信号源分離の回路構成と学習法,2012
+487,斜交射影アルゴリズムを用いたブラインド適応マルチユーザ検出器,2012
+488,ファジィ学習ベクトル量子化法を用いた楽曲印象推定,2012
+489,疲弊紙幣の判別のための特徴空間の構成法,2012
+490,短区間エネルギを重み関数とするWLPに基づく時変複素音声分析に関する検討,2012
+491,時変複素音声分析を用いたSRHに基づく音声のF0推定,2012
+492,SM/UDチャープ信号を用いた送受アレイとベクトル相関処理による空中音響センシング,2012
+493,Viola-Jones法と傾いた顔検出への応用,2012
+494,誤差伝播モデルに基づく最適な整数対整数変換の構成法,2012
+495,X線検査装置における目標画像の周波数領域相関による画像処理の一考察,2012
+496,浮動小数点画像に対するロスレスなビット深度スケーラブル符号化,2012
+497,非線形回帰を用いた定常的視覚誘発電位のアイドル状態識別,2012
+498,脳波識別のためのフィルタバンク・空間重み・時間窓の最適設計,2012
+499,Efficient Implementation of RLS-Based Adaptive Filters on nVIDIA GeForce Graphics Processing Unit,2012
+500,Natural Disaster Online News Clustering by Self-Organizing Maps,2012
+501,複数時系列データにおける共通点および相違点を考慮した運転行動モデル化,2012
+502,直交3成分地震波データに用いたコヒーレンス関数による相似地震解析法とGPGPU高速化,2012
+503,疎グラフ符号の超分散ストレージへの応用,2012
+504,スパース表現を用いたセキュアな顔認識システム,2012
+505,隠れマルコフモデルを用いた口形コード法に基づく画像発話認識,2012
+506,車載ステレオカメラを用いた障害物検出手法の性能評価,2012
+507,携帯端末を考慮した印刷画像からの情報検出の高速化手法,2012
+508,Phase Modification --- A New Paradigm for Signal Enhancement,2012
+509,様々な非線形音声強調法における近似モデルを用いたミュージカルノイズ発生量解析,2012
+510,様々な動的雑音推定器に基づくミュージカルノイズフリー雑音抑圧処理の評価,2012
+511,減衰振動を伴う打撃音除去法の性能改善,2012
+512,On Critical Paths of lp-constrained Underdetermined Least Squares Problem (0<p<1),2012
+513,級数の重みを用いたIRLSアルゴリズムに基づくスパース最適化手法の提案,2012
+514,Design of FIR filters considering sparsity in coefficients,2012
+515,爆発物探知のためのスパース性に基づく質量スペクトル信号源分離,2012
+516,ショックフィルタのTV正則化超解像法への応用,2012
+517,JPEG再適用と画像データベースを利用したJPEG画質改善法の性能評価,2012
+518,ガボールウェーブレット変換を用いた学習型超解像に関する研究,2012
+519,Bootstrapping Image Super Resolution Using Sparse Representation,2012
+520,周波数領域ALEによる音声強調,2012
+521,混合時変ガウスモデルに基づく残響除去法の提案,2012
+522,2マイクロホンアレーシステムを利用した車内環境における雑音低減法,2012
+523,Improvement of MTF-based power envelope restoration in noisy reverberant environments,2012
+524,２次元データ圧縮センシングの為の反復再構成法,2012
+525,All-pass IIR フィルタの設計問題における近似ノルムと最適化解法アルゴリズムの最適選択指標,2012
+526,Sparse system identification by adaptive proximal forward-backward splitting algorithm: approximated Lp-regularizer and variable regularization parameter,2012
+527,Sparse Distributed Estimation in Diffusion Adaptive Networks by Proximal Forward-Backward Splitting,2012
+528,制御におけるスパース性の利用について,2013
+529,凸最適化アルゴリズムを用いた雑音を含む線形観測値からのパルス列再構成,2013
+530,最尤法の計算とホロノミック勾配降下法,2013
+531,同時対角化解析解を用いたCVFFDIAGの収束性能改善,2013
+532,1次元方向性冗長フィルタバンクと画像のスパース性を用いた合成による画像ノイズ除去,2013
+533,人間の知覚する明るさに基づく全域整合性を保持したグレースケール化,2013
+534,Anscombe 変換に基づく混成DirLOTを利用したポアソンノイズ除去,2013
+535,Simultaneous Decompression and Enlargement of JPEG Images Using Total Generalized Variation,2013
+536,自動採譜のためのNMFを用いた音源スペクトル分離,2013
+537,複数の重み付け加算回路を用いた移動音源分離,2013
+538,拡張Mean-Shift法によるW-DO仮定に基づく音源分離,2013
+539,Music signal separation using supervised nonnegative matrix factorization with orthogonality and maximum-divergence penalties,2013
+540,適応フィルタの係数二乗誤差を最小化するステップサイズ制御法,2013
+541,勾配ベクトルにシグモイド関数を用いた高速高精度な適応ノッチフィルタ,2013
+542,On the tracking performance of adaptive filters with data and error nonlinearities,2013
+543,A Note on Kernel Adaptive Filtering Algorithms : RKHS Projection or Parameter-space Projection?,2013
+544,局所線形モデルを用いた勾配ドメイン処理,2013
+545,事例ベース画像インペインティングにおけるパッチサイズ選択法の検討,2013
+546,サイズの異なる行列データの同時低ランク近似,2013
+547,DCT/DST-5の二次シフト性に基づく定数時間微分ガウシアンフィルタ,2013
+548,ディジタルフィルタバンクによる不等間隔サンプルからの等間隔サンプル再構成,2013
+549,2次元非可分型リフティング構造に基づくコサイン・サイン変調フィルタバンクの設計,2013
+550,グラフ信号処理のためのラプラシアンピラミッドの設計,2013
+551,Embedded Implementation Model of Non-separable Symmetric Lapped Transforms,2013
+552,減衰モデル付きPLCAを用いた爆発物探知のための質量スペクトル分離,2013
+553,短期風速予測の確率モデル化および電力市場における風況予測に基づく意思決定,2013
+554,画像集合の時間情報を考慮したタグ間の関係抽出に関する検討,2013
+555,選択的PEGアルゴリズムによるレート可変型LDGM符号,2013
+556,Ant Colony OptimizationによるCSD係数FIRフィルタの設計,2013
+557,CSD係数FIRフィルタ設計における局所解停留回避のためのペナルティ関数の検証,2013
+558,M分割リフティングベース線形位相フィルタバンクのための可逆対称拡張法,2013
+559,M-channel oversampled perfect reconstruction filter banks for graph signals,2013
+560,クラス判別のための部分和による境界演算,2013
+561,運転行動予測のための時系列確率モデル化手法比較,2013
+562,2次位相スペクトルの差を持つ信号間の位相限定相関関数の性質,2013
+563,Improvement of Constant Modulus Algorithm Blind Equalizer Performances in Learning Curve,2013
+564,色差成分の２回差分の最小化を考慮したColorizationアルゴリズムの提案,2013
+565,聴覚刺激に対するP300検出における雑音耐性評価,2013
+566,聴性BCIのためのベイズ推定による脳信号の遅延時間推定法,2013
+567,コマンド入力インタフェースにおける視線位置と脳波利用の性能評価,2013
+568,Image Upscaling Using Iterative Edge-Directed Interpolation with High Directionality,2013
+569,Total Variation正則化およびShock Filterを用いたぶれ画像復元の性能改善,2013
+570,多重露光画像を用いたノイズ除去のための重み最適化,2013
+571,ブラーマップを用いたマルチフレームコントラスト強調,2013
+572,Web映像検索のためのWebコミュニティの階層構造抽出の高精度化に関する検討,2013
+573,特定歩行者の抽出のためのMeanShiftによるクラスタリング手法,2013
+574,Detecting Reflection Edges from a Single Image via Redundant Color Information,2013
+575,多カーネルを用いた二次制約MAPによるパラメータレスの識別器の実現,2013
+576,アフィン射影アルゴリズムの係数二乗誤差を最小化するステップサイズ制御法,2013
+577,符号ダイバーシチ受信方式におけるブランチ間の直交性を考慮したアフィン射影型ブラインドマルチユーザ検出器,2013
+578,OFDM通信環境下におけるDLS型ダイレクトブラインドZF等化器の設計,2013
+579,Supervised NMF using Structured L1 Norm with Overlapping Groups,2013
+580,A Wind-Noise Suppressor Based on Wind-Onset Detection and Spectral Gain Modification,2013
+581,パラメトリックスピーカを用いたANCシステムの各種検討,2013
+582,周波数領域のパワー包絡復元に基づく観測音声のクリッピングノイズ抑圧,2013
+583,Property of Array Covariance Matrix Elements and Its Application to DOA Estimation by Uniform Linear Array,2013
+584,変調スペクトルに着目したモノラル音源方向推定法の検討,2013
+585,A Novel 3-D Array Configuration Using Multiple Regular Tetrahedra for High Resolution 2-D DOA Estimation,2013
+586,High Resolution DOA Estimation using GROUSE and EM Algorithms for Low-Cost Array Antenna System,2013
+587,フォーマット変換を用いたHDR画像に対するロスレスビット深度スケーラブル符号化,2013
+588,カーネル回帰を用いたJPEG再適用法によるJPEG画像の画質改善,2013
+589,Near-lossless color image coding using demosaicing-based colorization,2013
+590,クラス結合と事前決定に基づいたHEVCのサンプルアダプティブオフセットにおける低演算処理,2013
+591,Zero-Forcing THP MIMO通信システムのためのCholesky分解によるprecoding行列生成アルゴリズム,2013
+592,OFDM方式における対数の期待値を用いたブラインドチャネル推定法の提案,2013
+593,Differentially-Encoded Spatial Modulation MIMO Systems,2013
+594,オーバーサンプリングされた受信信号の二次統計量を用いたI/Q 不均衡ブラインド推定法,2013
+595,統計的パターン認識による肝癌再発予測,2013
+596,医工連携による難治性疾患の診断・治療のためのハードウェア開発,2013
+597,ニューロモデュレーション『局所脳冷却』による難治性神経疾患治療,2013
+598,表面筋電位信号を利用した発話障害者用意思伝達装置の実現に向けて,2013
+599,領域ベース複層MRFに基づくベイズ超解像とハイパーパラメータ推定,2013
+600,l0/l1ノルム混合最小化に基づくフレーム内超解像,2013
+601,TV正則化フィルタとShockフィルタとを用いた超解像手法の検討,2013
+602,自己相似性と自己合同性を用いた画像の超解像,2013
+603,IRAPTに基づく音声のF0推定に関する一検討,2013
+604,屋外一斉放送における放射タイミング制御による音情報重複の低減 -2局モデルでの検討-,2013
+605,変調伝達関数に基づく雑音残響に頑健な音声区間検出法の検討,2013
+606,A new Griffiths-Jim beamformer with a compact array of microphones suitable for mobile terminals,2013
+607,近接最適性原理に基づくCSD係数FIRフィルタの設計,2013
+608,Radeon HD 7970を用いたニューラルネットワークの高並列シミュレーション,2013
+609,THP MIMO通信システムにおける送信アンテナ並べ替えの効果に関する検討,2013
+610,巻き込み分布に従う位相スペクトル差を持つ位相限定相関関数の統計的解析,2013
+611,不十分なGIをもつOFDMシステムにおける等化器の改善法,2013
+612,高速移動体通信のためのロバストなMC-CDMA性能評価,2013
+613,多重信号遅延時間の推定とその応用,2013
+614,DBNによる事象関連電位の分類精度,2013
+615,振幅情報に基づくいびき音-呼吸音分類法,2013
+616,埋め込み型マーカを利用した印刷画像へのデータ埋め込みと検出手法の改良,2013
+617,画像内の肌色ノイズ領域除去を目的とした動き情報と追跡処理を用いた手領域検出手法,2013
+618,DSC定理を利用した階層型ロスレス映像符号化の検討,2013
+619,画素判別画像を用いた低演算量な2次元カルマンフィルタによる劣化画像復元手法,2013
+620,Vectorial Total Variation in Decorrelated Color Space,2013
+621,適応的処理を用いた高精度エルミート画像補間法の評価,2013
+622,ヒストグラム・パッキングを用いたHDR画像のロスレスビット深度スケーラブル符号化,2013
+623,フーリエ位相相関法とPSエルミート補間法を用いた画像のサブピクセルマッチング,2013
+624,複製コンテンツの確率的な分散配置を動的に最適化するためのベイズフィルタ,2013
+625,文字画像のスパースモデリングと文字検出,2013
+626,ARモデルのためのブラインド同定手法の研究,2013
+627,ノイズ環境下におけるブラインドデコンボリューション手法の一考察,2013
+628,逆ノッチフィルタと低次線形予測器による適応ノッチゲインの実現,2013
+629,高次元非線形写像のための圧縮Extreme Learning Machineアルゴリズム,2013
+630,スペクトル包絡の相互相関に基づくパラメトリックスピーカの復調評価指標の策定,2013
+631,バイアス付き事前SNR推定を用いた一般化MMSE短時間振幅スペクトル推定法におけるミュージカルノイズフリー音声強調,2013
+632,ロバスト音声認識向けETSI Advanced Front-End(AFE)の改良に関する検討,2013
+633,A Sufficient Condition For Reproducing Kernel Hilbert Spaces Being Separable,2013
+634,Algebraic Phase Unwrapping over Collection of Triangles and Its Application,2013
+635,Adaptive Generalized Forward-Backward Splitting Method for Multikernel Adaptive Filtering,2013
+636,信号部分空間を用いたスパースなインパルス応答のブラインド推定,2013
+637,画像注視時の脳波特徴量を用いた画像分類に関する検討(1) -複数の識別結果の統合による高精度化-,2013
+638,N100とP300を用いた逐次画像呈示によるP300 spellerの性能向上,2013
+639,運動想像脳波識別のための空間パターンの類似性による帯域選択,2013
+640,ニューラルネットワークによるシステムの非線形度推定法,2013
+641,再最適化によるFIRフィルタ設計の高速化,2013
+642,通過域最大平たん阻止域mini-max基準による直線位相ディジタルFIR帯域通過微分器の一設計法,2013
+643,線形予測に基づく正弦波強調におけるWienerフィルタの振幅特性について,2013
+644,PSOによるIIRフィルタ設計のための早期収束回避法,2013
+645,複素正弦波信号の周波数推定のためのフーリエ級数に基づく適応アルゴリズム,2013
+646,Shrinkage tuning based on an unbiased MSE estimate for the sparsity-aware adaptive proximal forward-backward splitting,2013
+647,複数のニューラルネットワークを用いた リチウムイオン電池の残量推定,2013
+648,時変な一次経路に対するFXLMSアルゴリズムの統計力学的解析,2013
+649,動領域に対処可能な異なるGuided Filter の合成法の一検討,2013
+650,差分平均検出を用いたカラー画像電子透かし法,2013
+651,バンド間相関を考慮したマルチスペクトル画像のためのデモザイキング,2013
+652,カラー照明下における色印象を選択可能な画像統合の検討,2013
+653,前処理を用いたステレオエコーキャンセラの学習アルゴリズム,2013
+654,NEW STRUCTURE FOR SUPPRESSING SEVERELY DISTORTED ECHO BASED ON CORRELATION BETWEEN NONLINEAR ECHO REPLICA AND RESIDUAL ECHO,2013
+655,A Robust Adaptive Learning of Saturation Nonlinearity in Acoustic Echo Cancellation,2013
+656,線形予測フィルタを用いたANCシステムの遅延量に関する検討,2013
+657,A Correction Term Based SIR Particle Filter Algorithm,2013
+658,A Reduced Rank Estimation of Covariance Matrices for EEG Classification,2013
+659,Multikernel Adaptive Filtering as Subspace-Parameter Joint Estimation in Sum Space,2013
+660,動画像内のディスプレイに生じるフリッカー除去のための領域検出,2013
+661,基線長の短い車載ステレオカメラを用いた障害物検出手法の検討,2013
+662,走査型電子顕微鏡で撮像された昆虫の種分類に関する検討 ー生息域に基づく分類結果に注目した高精度化ー,2013
+663,ラドン変換を用いたカメラ付き携帯端末用ポインティングデバイスの実装,2013
+664,非線形歪み補正に対する非線形２次IIRフィルタのパラメータ精度の考察,2013
+665,サラウンドパラメトリックスピーカを用いたキャリア波と側帯波の分離放射によるオーディオスポット形成,2013
+666,ノイズキャンセラ向け車室内マイクロホン配置の検討,2013
+667,演算量軽減型有色性駆動原カルマンフィルタによる雑音抑圧法のDSP実装と性能評価,2013
+668,ボリュームデータスパース表現のための三次元非分離冗長重複変換,2014
+669,時変未知ベクトルに対するブール圧縮センシングにおける窓幅制御,2014
+670,多視点画像のためのPatchMatch Stereoの拡張に関する検討,2014
+671,ランク最小化を導入した動画像の事例ベース超解像の高精度化に関する検討,2014
+672,A regularization approach for image coding by inverse demosaicing,2014
+673,Maximizing constrained capacity in optical wireless communication systems using spatial modulation,2014
+674,THP-MIMO通信システムのための適応ビット割当法,2014
+675,矩形アレーアンテナの受信信号相関行列における要素間の関係を利用した到来方向推定,2014
+676,Faster-Than-Nyquist 信号伝送のためのオーバーラップ処理を用いた周波数領域等化,2014
+677,全二重無線通信における包絡線検波器を利用した自己干渉除去法,2014
+678,適応くし型フィルタとノッチフィルタを組み合わせたハウリングキャンセラの性能評価,2014
+679,非定常信号選択型独立成分分析によるブラインド信号源分離,2014
+680,楽曲のヴォーカル特徴量を考慮したカラオケ信号生成法,2014
+681,楽曲聴取時の個人の脳波信号を利用した好みの楽曲の識別に関する検討,2014
+682,側抑制ニューラルネットワークを用いた時間－周波数領域における音楽信号源分離,2014
+683,極小領域オーディオスポットを用いたANCの基礎的検討,2014
+684,パラメトリックスピーカにおける非線形歪み補正に関する検討,2014
+685,QPSK視覚刺激を用いた脳コンピュータインタフェース,2014
+686,多チャンネルSSVEPの位相識別のためのスパースな空間フィルタ設計,2014
+687,画像注視時の脳波特徴量を用いた画像分類に関する検討(3) ーMSLPCCAに基づく特徴統合を用いた高精度化ー,2014
+688,Non-contact Vital Sign Detection using a Millimeter Wave Sensor and Heartbeat Signal Extraction,2014
+689,Heartbeat Signal Extraction utilizing Respiration Modeling for Noncontact Vital Signs Detection,2014
+690,リンギングの抑制のための画像成分分離を用いたノンブラインドなぼけ除去法の一検討,2014
+691,結晶構造の定式化を基にした非分離型2次元ウェーブレットの構成と応用,2014
+692,Reflection Edge Detection from a Single Image and Its Applications,2014
+693,A Constrained Use of Total Generalized Variation,2014
+694,異種画像間識別における一般化ガウス分布の形状パラメータ推定,2014
+695,加算及び積算雑音が存在する音環境システムにおける雑音除去法,2014
+696,適応ノッチフィルタによる 低演算フィードバックANCシステムの開発,2014
+697,HPSS-NMFを用いたモノラル音楽信号からの歌声抽出,2014
+698,Reduced Rank Modeling for Time-Varying Spectral Pattern with Automatic Rank Selection for Supervised NMF,2014
+699,Cholesky分解に基づく線形プリコーダを用いたMIMO通信システムの検討,2014
+700,フィルタバンクマルチキャリアシステムにおける時間領域でのチャネル推定,2014
+701,レイヤ間相関を利用したロスレスDVCの検討,2014
+702,ヒストグラムパッキングとグラデーション予測を用いた二階層ロスレスHDR画像符号化,2014
+703,様々な阻止域特性を実現可能な直線位相帯域通過最大平たんFIRディジタル微分器の一設計法,2014
+704,連続ウェーブレット変換におけるスケールの多項式表現,2014
+705,Optimization of spectral-domain graph filters Inspired by Subspace Infromation Criterion,2014
+706,画像平均とTVを用いた逆畳み込みによる画像のノイズ除去,2014
+707,表裏面スキャン画像のカルマンフィルタによる裏写り除去,2014
+708,有限レベル変動域を考慮したファジィ・ベイズフィルタに基づく音環境の一状態推定法,2014
+709,A fast Gauss-Seidel-like splitting algorithm for convexly constrained spline smoothing,2014
+710,核ノルム最小化による行列データの同時低ランク近似,2014
+711,Online learning with compactly supported kernel,2014
+712,OpenCLを用いた適応フィルタの効率的実現,2014
+713,地震波データのコヒーレンス解析を用いた相似地震識別法の比較評価,2014
+714,ベータ過程隠れマルコフモデルを用いたジュウシマツのさえずりの音節自動識別,2014
+715,聴診音に含まれる異常呼吸音の検出,2014
+716,パケット消失訂正に適した軽量多元LDGM符号の構成と評価,2014
+717,GNURadio and SDR testing of 16-QAM UHF/VHF Bit Error Rates,2014
+718,A Preprocessing Using Convex Optimization for Algebraic Two-Dimensional Phase Unwrapping,2014
+719,Volterra Filters for Representing the Parametric Acoustic Array in Air,2014
+720,間引きした2次ボルテラフィルタによる超音波パラメトリックスピーカ歪低減,2014
+721,時系列2次元オプティカルフローの複素数表現と低ランク成分・スパース成分の抽出,2014
+722,色相を保存するシフトアンシャープマスキングによる物体色再現,2014
+723,単体写像を用いたディスプレイプロファイルの構築と色再現への応用,2014
+724,話者性の分離と位相情報を用いたテキスト独立型話者識別,2014
+725,事前SNR モデルに基づく低演算量・高精度な雑音抑圧法とその車内音声認識評価,2014
+726,広帯域複素音声分析を用いたロバスト音声認識ETSI AFE,2014
+727,雑音除去とクラスタリングを組み合わせた音声区間検出法の改良,2014
+728,MSERを用いた水滴検出手法に関する検討,2014
+729,位相限定相関を用いたPCA-LDA顔認証システム,2014
+730,MSSGを用いた歩行者抽出のための演算量削減法,2014
+731,混合ガウス分布背景モデルを用いた前進カメラによる前景分離法,2014
+732,集中化を緩和したACOによるCSD係数FIRフィルタ設計,2014
+733,IIRフィルタ設計のための複数群PSOを用いた個体再配置,2014
+734,2次元非可分型ブロックリフティング構造に基づくM分割完全再構成フィルタバンクの設計,2014
+735,冗長コサイン・サイン変調フィルタバンクの設計,2014
+736,KLダイバージェンスを用いたNMFアルゴリズムの変数選択に基づく高速化,2014
+737,アンサンブルカーネル回帰とマルチカーネル回帰の汎化性能に関する一考察,2014
+738,ADPCMの適応予測器の構造に関する検討,2014
+739,ロバスト時変複素AR音声分析に基づく群遅延スペクトルの特性,2014
+740,IIR型システムに対する正規直交フィルタを用いたブラインド同定手法の検討,2014
+741,A Dual-Microphone Noise Suppressor with an Adjustable Constant Beamwidth,2014
+742,A novel fixed point characterization of minimizers of convex functions involving proximable and linear composite terms,2014
+743,ノンパラメトリックベイズモデルに基づくFIRフィルタの同定,2014
+744,不均一なサンプリング間隔のデータに対する解析手法の研究,2014
+745,One-Dimensional Probability Density Function Estimation by Positive Quartic C2-Spline Interpolation and Smoothing,2014
+746,部分空間を用いた脳波識別のための空間フィルタの設計,2014
+747,事象関連電位を用いた刺激の条件付き発生確率推定,2014
+748,Multi-class classification for motor-imagery EEG signals with a reduced rank estimation technique,2014
+749,体動雑音に頑健な脈拍数導出アルゴリズム,2014
+750,Image Fusion with Multiple Directional LOTs,2014
+751,動きのある複数画像を用いた逆カメラレスポンスカーブの推定,2014
+752,動き補正を必用としない入力画像 / ガイド画像の統合手法,2014
+753,White balancing under multiple light sources using a flash/non-flash image pair,2014
+754,複数のマイクロホンアレイを組み合わせた音声強調技術,2014
+755,不等間隔マイクロホンアレーによる逐次更新ヒストグラムに基づく複数音源追尾,2014
+756,一般化固有値展開に基づく信号部分空間推定と斜射影を用いたDOA推定,2014
+757,超解像型音場収音・再現のためのスパース音場表現とパラメトリック辞書学習,2014
+758,直接音と床面反射音のHRTF合成に基づく音像定位の検討,2014
+759,チャネル別事前分布推定と両耳共通スペクトルゲインを用いた定位保持型バイノーラル音源分離,2014
+760,Natural Disasters Topics Detection Over Twitter Data Stream,2014
+761,パラメトリックスピーカによる低演算量マルチチャネルANCシステムの実現に関する検討,2014
+762,PNLMS/MPNLMSエコーキャンセラにおけるゲイン分配手法の改善,2014
+763,部分和を用いた境界演算クラス判別のFPGA実装に関する一検討,2014
+764,QMFを用いた音源分離,2014
+765,マルチカーネル回帰とアンサンブルカーネル回帰の汎化誤差解析,2014
+766,Tight Graph Filter Banks Converted from Filter Banks of Classical Signal Processing,2014
+767,システム同定手法を用いた不等間隔なデータからの等間隔データの復元,2014
+768,von-Mises分布に従う位相スペクトル差をもつ実信号間の位相限定相関関数の統計的解析,2014
+769,サブバンド適応Volterraフィルタの実現方法に関する検討,2014
+770,Kernel Adaptive Filtering With Efficient Construction of Dictionaries,2014
+771,Performance analysis of the stochastic restricted gradient descent algorithm in RKHS,2014
+772,時変な一次経路に対する能動騒音制御の統計力学的解析,2014
+773,胃Ｘ線画像の撮像方向推定が与えるHelicobacter pylori感染の識別精度への影響の考察,2014
+774,Webコミュニティの階層構造抽出に関する検討 －映像特徴ベクトル間の距離に注目した類似度の導入による高精度化－,2014
+775,映像特徴とタグ情報を考慮したネットワーク構造解析に基づくWeb映像検索に関する検討,2014
+776,可逆ヒストグラム移動法に基づく画像の改ざん検知,2014
+777,ブロックベース線形回帰と非局所的冗長性を利用したデモザイキング,2014
+778,色差を考慮したマルチスケール勾配に基づく指向性デモザイキング,2014
+779,多重解像度画像を用いたcolorization符号化手法の提案,2014
+780,方向選択型リフティングウェーブレット変換の方向情報隠蔽を用いたロスレス画像符号化,2014
+781,ストカスティック演算に基づくFIRフィルタの性能評価,2015
+782,コサイン・サイン変調フィルタバンクにおける画像端の平均値拡張法,2015
+783,非分離冗長重複変換の事例学習設計における効果的辞書更新,2015
+784,多次元非分離冗長重複変換のFFT領域並列高速化,2015
+785,画像復元のための勾配分解法,2015
+786,Efficient image restoration based on a stochastic ADMM,2015
+787,RGB画像から得られる小平面の張り合わせによる深度画像の超解像手法の提案,2015
+788,修復順序を考慮した画像内テクスチャを用いる反復画像修復法とその評価,2015
+789,A Structure-Tensor-Based Regularization Approach to Multichannel Image Restoration,2015
+790,Multi-task Learning with Operator-valued Reproducing Kernels,2015
+791,フレーム内における信号の開始点の推定,2015
+792,グラフサンプリング定理を用いたセンサ配置位置の選択法,2015
+793,On a Projection Step by Generalized Orthogonal Complement Matrices for Adaptive Subspace Tracking,2015
+794,多腕バンディットによる適応的ブール型圧縮センシング,2015
+795,ピンホールカメラを用いた平板金属加工検査システムのための学習辞書による画像ボケ除去,2015
+796,Color-Line Vector Field for Multispectral Image Denoising,2015
+797,グラフ構造に基づくリランキングを利用したWeb映像検索に関する検討 ～初期検索結果の誤りを考慮した最適化に基づく高精度化～,2015
+798,エッジの連続的な方向性を考慮したデモザイキングの精度改善法,2015
+799,最適内挿近似理論に基づくスペクトル補間によるMRI断層画像の画質向上の研究,2015
+800,音声のスパース性に基づく複数音源定位における最尤推定による計算量削減,2015
+801,A Speech-Recognition Oriented Directional Noise Suppressor with Directional-Gain Relaxation,2015
+802,音源定位と音声区間検出の有機的統合 --家庭環境を対象に--,2015
+803,Kinectを用いた適応マイクロホンアレイによる音声収録,2015
+804,半教師あり学習の統計力学的解析と最適スケジューリング,2015
+805,Positive Quartic and Biquartic C2-Splines and Their Applications to Two-Dimensional Probability Density Estimation,2015
+806,2変量確率分布に従う位相スペクトルをもつ2信号間の位相限定相関関数の統計的性質,2015
+807,位相スペクトルが2変量巻き込み分布に従う場合の方向統計学に基づく位相限定相関関数の統計的解析,2015
+808,Two-Dimensional Phase Unwrapping Based on Selective Smoothing and Inconsistency Correction,2015
+809,最小二乗法を用いた出力欠損データ推定に関する考察,2015
+810,欠損を含む音声データの復元,2015
+811,QMFを用いた音源分離手法の性能評価,2015
+812,新しいサンプリング周波数変換法とその評価,2015
+813,サブストリーム毎のビット配分を考慮したTHP MIMO-OFDMシステム,2015
+814,二重差動符号化空間変調MIMO伝送方式,2015
+815,色度が既知の補助照明を用いた固有画像分解に関する一検討,2015
+816,グラフスペクトル解析による次元削減と接空間写像による運動想像時脳波の識別,2015
+817,マルチセット正準相関分析による定常的視覚誘発電位の周波数識別,2015
+818,空間フィルタのスパース化による定常的視覚誘発電位の周波数・位相同時識別,2015
+819,区間演算及び境界演算による多変量混合ガウス分布の演算量削減法,2015
+820,サンプルを中心とした混合分布モデルに基づいたクラスタリング,2015
+821,分枝限定法に基づく準スパース係数帯域通過フィルタの設計,2015
+822,劣勾配によるモフォロジカルネットワークの学習,2015
+823,MLDとアクティベーション行列圧縮を用いたNMFベース音響イベント検知,2015
+824,複数マイク信号間の相互相関関数に基づく残響環境下の音響オンセット検知と方向推定,2015
+825,線形変換を用いたカラー画像のブロックベース符号化,2015
+826,広帯域ロバスト複素AR音声分析を用いた音声認識フロントエンド,2015
+827,フィードフォワード型能動騒音制御システムにおける帰還系相殺処理の重要性について,2015
+828,Quadratic Model for Reference Based Image Filtering,2015
+829,位相直線性に基づく打撃区間検出による突発雑音抑圧法とそのキーワードスポッティング評価,2015
+830,マルチカーネル適応フィルタのための効果的な辞書学習,2015
+831,チェビシェフ多項式近似による画像ノイズ除去フィルタの固有値フィルタリング,2015
+832,チェビシェフ多項式近似を利用したBM3Dの繰り返し処理による固有値フィルタリング,2015
+833,離散KLTによる定数時間バイラテラルフィルタ,2015
+834,Domain Transform に基づくエッジ保存型多重スケール分解,2015
+835,DCT Based Pitch Extraction for Speech Signal Using Sub-Harmonic Summation,2015
+836,雑音パワーの時間変動分布に基づいた定常雑音推定,2015
+837,雑音と歪みを有する音源からの原波形の復元,2015
+838,基本周波数の位相スペクトル追跡に基づく雑音下音声強調,2015
+839,最適制御のための近接分離法,2015
+840,Alternating Projection for Low-Rank and Nonnegative Matrices and its Application to Supervised NMF,2015
+841,運動ぼけ除去と連続時間再現に関する時間周波数領域理論,2015
+842,The Optimum Running Approximation of Signals Having Spectrums Expressed By Nonuniform Fourier Series,2015
+843,QRマップを用いたJPEG画像の画質評価および圧縮率推定,2015
+844,4分木構造推定と高速イントラモード決定手法によるH.265/HEVCの計算時間削減,2015
+845,レスポンスカーブ関数推定と合成勾配正則化による高ダイナミックレンジ画像生成,2015
+846,2種類の差分情報を利用したハイスピードカメラの高解像度イメージングに関する原理的検討,2015
+847,コンピュータスクリーンの角膜反射画像からの視線推定,2015
+848,動電型スピーカの物理パラメータにより設計されたVolterraフィルタに関する一考察,2015
+849,一般化サイドローブキャンセラによる騒音源分離を利用したマルチチャネルフィードフォワードANCシステムに関する検討,2015
+850,パラメトリックスピーカの歪み補正に関する検討,2015
+851,Supervised Nonnegative Matrix Factorization with Itakura-Saito Divergence for Music Transcription.,2015
+852,キャリア波と複数側帯波の独立遅延制御によるパラメトリックスピーカ近傍再生の検討,2015
+853,短時間領域に含まれる異常呼吸音の特徴検出,2015
+854,肺音解析に基づく異常呼吸音の自動簡易判別法,2015
+855,部分空間制約を用いた多次元線形判別法による単一試行事象関連電位の識別,2015
+856,胃X線画像を用いたHelicobacter pylori感染の高精度識別に関する検討 (1) -識別精度向上に有効な画像領域の抽出手法-,2015
+857,胃X線画像を用いた胃がん発症リスクの推定 -リスク推定に用いる分類手法の比較による初期検討-,2015
+858,位相差の最小二乗近似による画像の非整数精度のシフト量推定,2015
+859,カメラの移動撮影によるオンライン3次元計測システムとその評価,2015
+860,位相限定相関法のためのFPGAアクセラレータのOpenCLベース設計と性能評価,2015
+861,画像注視時の脳波特徴量を用いた画像分類に関する検討(5) - KESLME を用いた教師あり分類結果統合に基づく高精度化 -,2015
+862,MMT FireFort-LDGM符号と8Kスーパーハイビジョン伝送実験による性能評価,2015
+863,移動物体のトラッキングにおける位相情報の利用,2015
+864,拡張ネストアレーによる高分解能到来方向推定,2015
+865,ブール圧縮センシングによる適応グループテストのための推定陽性アイテム数に基づくプールサイズ制御法,2015
+866,中継ノードにバッファを用いた二段階リンク選択型協調通信の理論解析,2015
+867,係数誤差最小化に基づくステップサイズ制御法を用いたステレオ音響エコーキャンセラ,2015
+868,フィードバック形ブラインド信号源分離における遅延制約の緩和,2015
+869,ノルム一定な時変一次経路に対する能動騒音制御の統計力学的解析,2015
+870,ACLAに基づく適応ノッチフィルタの定常状態におけるMSEの閉じた形での導出,2015
+871,時変全域通過フィルタを前処理に用いたステレオエコーキャンセラの学習アルゴリズム,2015
+872,Shrinkage tuning based on a system-mismatch estimation for the sparsity-aware adaptive proximal forward-backward splitting,2015
+873,競合型ラベル伝播を基にした顕著性検出,2016
+874,位相限定相関法における周波数領域の誤差に着目した画像の高精度な平行移動量推定,2016
+875,A Hybrid Spatio-Spectral Total Variation Regularization for Hyperspectral Image Restration,2016
+876,グラフスペクトルフィルタリングを用いたメッシュ変形による画像リターゲティング,2016
+877,畳み込みニューラルネットワークを用いた音声強調,2016
+878,QMFを用いた帯域分割に基づく音源分離,2016
+879,１チャンネルマイクロホンによる音響信号の到来方向推定法,2016
+880,キャリア波と側帯波の多重アレー処理による室内反射低減型パラメトリックスピーカシステムの検討,2016
+881,メタヒューリスティックによるCSD係数FIRフィルタ設計における探索過程の検証,2016
+882,2次元最大平たんハーフバンドFIRディジタルフィルタのBernstein多項式に基づく閉じた伝達関数,2016
+883,低遅延帯域通過最大平たんFIRディジタルフィルタの一設計法,2016
+884,M分割リフティングベース非線形位相フィルタバンクの可逆な非拡張畳み込み,2016
+885,スパースNeugebauerモデルに基づく分光反射率の推定,2016
+886,空間-波長構造テンソルに基づくハイパースペクトル画像のための正則化,2016
+887,Image smoothing subject to $L_0$ gradient constraint,2016
+888,領域分割に基づくDictionaryを用いたシングルフレーム超解像,2016
+889,長さが2のべき乗間のデータを計算効率よく取り扱える高速フーリエ変換法,2016
+890,B-スプラインを用いた曲線類似度計算法の性能評価,2016
+891,A Best Upper Bound of the Condition Number with Trace Constraints and Its Application to Subspace Tracking,2016
+892,A design of convex regularizer for sparsity-aware recovery of certain piecewise continuous signals,2016
+893,ZF-THPを用いたMU-MIMO通信システムのためのユーザースケジューリングアルゴリズム,2016
+894,OFDM/OQAMにおけるプリアンブルを用いたI/Q不均衡推定法,2016
+895,Minimum Redundancy Linear Array Geometry Based on 2q-th Order Cumulant-Based Array Processing,2016
+896,FM連続波レーダにおけるドップラー検知のための送信波形とその受信処理,2016
+897,JPEG XRのためのより効率的なリフティング構造,2016
+898,事例学習辞書とスパース表現を用いたノイズ低減の多露光画像合成法,2016
+899,オールパスフィルタに基づくウェーブレットによる高精細圧縮動画像のフリッカー低減,2016
+900,DCT係数の外れ値に基づいたH.265/HEVCの 高速イントラモード決定手法,2016
+901,伝達関数ゲイン基底NMFを用いた遠方雑音抑圧の実環境での評価,2016
+902,位相歪み特徴量を用いた音声強調のための位相復元,2016
+903,非凸二次制約付き最適化を利用したMirror フィルタのパラメータ推定法,2016
+904,参照信号を用いたマイクロホンアレーの校正における球面波モデルの適用,2016
+905,信号処理シミュレーションにおけるC言語の有効利用について,2016
+906,遊びながら学ぶMATLABプログラミング,2016
+907,Pythonプログラミングによる画像・映像処理,2016
+908,視覚刺激を用いた脳コンピュータインタフェースにおけるキャリブレーション削減のための参照信号の効果的な変換法,2016
+909,最小二乗法を用いた出力欠損データ推定アルゴリズムに関する考察,2016
+910,シングルチャネルNMFを用いたマルチチャネルNMFの初期値設定法,2016
+911,疑似乱数スペクトル順列を用いたダウンサンプリング型スパースFFT,2016
+912,実信号向けのダウンサンプリングに基づくスパースＦＦＴ,2016
+913,インパルス性雑音を含む音声データからの源音復元,2016
+914,能動騒音制御の適応速度に関する統計力学的解析,2016
+915,ガウシアンカーネルパラメータの適応最適化,2016
+916,音源分布に基づいて教師信号を生成する目的音強調法,2016
+917,半教師有りNMFを用いた音響イベント検知,2016
+918,サブバンド適応Volterraフィルタにおける最適サブバンド数の自動設定法,2016
+919,フィードフォワードANCシステムのためのNLMSアルゴリズムのFPGAへの実装法,2016
+920,ラベルプロセスを用いたポアソンノイズ重畳画像の修復と領域分割,2016
+921,人間の知覚特性に基づく高効率映像圧縮技術の検討,2016
+922,画像・音声特徴量を用いた「ゆるキャラ」の人気予測,2016
+923,球面三角法を用いた全天周画像の前景拡大,2016
+924,確率的勾配法を用いた多重構造要素オープニングフィルタの学習,2016
+925,多重構造要素ダイレーション・エロージョンによる画像の雑音除去と欠損補間,2016
+926,チャンネル間の連結度を利用した脳波アーチファクト除去,2016
+927,VHF帯広帯域無線通信システムにおけるチャネル推定の効果,2016
+928,MIMO受信機における周波数オフセット推定可能範囲の拡大,2016
+929,Faster-than-Nyquist 信号伝送のための繰り返し周波数領域チャネル推定,2016
+930,サブキャリア選択変調を用いた広帯域通信方式の設計指針,2016
+931,パイロット信号を用いた微弱OFDM信号検出,2016
+932,Simple Thresholding for Reflectance Estimation of Hyperspectral Images,2016
+933,影反射領域の拡大によるGMMに基づく影反射除去法の改善,2016
+934,パラメータ最適化によるen-face OCTの観測過程推定,2016
+935,Maxout関数によるモフォロジカルフィルタの拡張,2016
+936,深層学習を用いた胃X線画像におけるHelicobacter pylori感染識別手法の高精度化に関する検討,2016
+937,胃X線画像を用いたHelicobacter Pylori感染の高精度識別に関する検討 (4) -大域的及び局所的性質に基づく注目領域の抽出-,2016
+938,分離信号の確率密度関数を利用した心音と肺音の分離精度の向上,2016
+939,Kinect sensorから得られる距離画像を用いた人の呼吸による胸部の距離変化の計測と適応フィルタによる呼吸数推定,2016
+940,パイロット適応ノッチフィルタにおけるステップサイズパラメータ設定方法に関する検討,2016
+941,チャネル間相関低減を用いたブレインコンピュータインタフェイスの性能の向上,2016
+942,電磁波信号からの複数狭帯域雑音除去,2016
+943,バーチャルセンシングを用いたフィードフォワードANCシステムにおける経路追従性に関する検討,2016
+944,Plug-and-play image restoration with operator decoupling,2016
+945,HPFによる特徴抽出と共役勾配法を用いた画像のBlind Deconvolution,2016
+946,グラフ信号処理を用いたcolorization符号化に基づくカラー画像圧縮手法,2016
+947,凸最適化アルゴリズムを用いたBinary-Continuous分解の解法,2016
+948,A Branch Cut Type Sign Estimator for Single-Frame Fringe Projection Profilometry,2016
+949,動電型スピーカシステムの非線形パラメータ推定法における評価関数を変えた場合のパラメータ推定精度に関する検討,2016
+950,ANCと聴覚マスキングに基づく工場騒音の不快感低減 ～ANCの制御帯域と騒音のピーク周波数を変化させた条件における音声了解性～,2016
+951,Alternating Direction Method of Multipliersに基づく音響信号復元,2016
+952,統計学的検定を利用した定常雑音推定,2016
+953,Automatic gain control with integrated noise suppression for specified target and background-noise levels,2016
+954,周波数標本化と再帰的最適化を必要としない2階微分器の設計,2016
+955,Wavelet Analysis for Multiple Frequency and Signal Classification in Linear Phased Array Model,2016
+956,再生核ヒルベルト空間の積空間におけるグラム行列の近似計算,2016
+957,行列ランク最小化に基づく一般化主成分分析手法による音声修復手法,2016
+958,複素固有値を考慮した有向グラフのためのグラフスペクトルフィルタの設計,2016
+959,マルチフィルタリングによる高速画像補間,2016
+960,シングルパスSAR強度画像を用いた地表面の3次元計測に関する検討,2016
+961,ダブルスパースモデルとオンライン辞書学習を用いた高速MR撮像法,2016
+962,解像度プログレッシブ伝送機能を有する分散映像符号化,2016
+963,Web映像検索のためのグラフマイニングを用いたリランキング手法,2016
+964,Listener Envelopmentにおける多音源感の定量的な指標の検討,2016
+965,sinc補間を用いた零位相ノイズ除去,2016
+966,音源信号の特性を考慮した時空間スパース音場分解の検討,2016
+967,複素音声分析を用いた隠れマルコフモデルによる音声合成,2016
+968,An efficient implementation of time-domain spectrogram factorization using projected gradient iterates,2016
+969,固有値分解と列空間推定を用いたDOSYのための高速スペクトル分離法,2016
+970,Huber損失関数を用いたロバストな三重位相差型GPS,2016
+971,Global convergence of a parallel projection method for certain nonconvex feasibility problems,2016
+972,双直交指向性離散コサイン変換の設計,2016
+973,ストカスティック演算に基づく省エネルギーガンマトーンフィルタのハードウェア実現,2016
