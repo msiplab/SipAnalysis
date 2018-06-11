@@ -28,14 +28,13 @@ else:
     # CSVへの書き出し
     df.to_csv(path)
 
-# 2008-2012 のタイトルリスト
-df2008_2012 = df.loc[df.loc[:,'Year']<2013].reset_index(drop=True)
-# 2013-2017 のタイトルリスト
-df2013_2017 = df.loc[df.loc[:,'Year']>2012].reset_index(drop=True)
-
-#
+# SIPワードクラウドオブジェクトの生成
 swc = SipWordCloud()
 
-#
-swc.generate(df2008_2012)
-swc.generate(df2013_2017)
+# 2008-2012のタイトルワードクラウド
+df2008_2012 = df.loc[df.loc[:,'Year']<2013].reset_index(drop=True)
+swc.generate(df2008_2012,'sipwdc2008_2012.png')
+
+# 2013-2017のタイトルワードクラウド
+df2013_2017 = df.loc[df.loc[:,'Year']>2012].reset_index(drop=True)
+swc.generate(df2013_2017,'sipwdc2013_2017.png')
