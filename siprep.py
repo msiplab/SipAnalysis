@@ -1,11 +1,16 @@
 # config: utf-8
 
 # # 信号処理シンポジウム分析
+#
+# 考サイト
+# http://www.dskomei.com/entry/2018/04/11/001944
+#
 
 # モジュール
 import os
 import pandas as pd
 from sipsymp import SipSymp
+from sipwdc import SipWordCloud
 
 # 対象年度の設定
 syear = 2008
@@ -23,5 +28,14 @@ else:
     # CSVへの書き出し
     df.to_csv(path)
 
+# 2008-2012 のタイトルリスト
+df2008_2012 = df.loc[df.loc[:,'Year']<2013].reset_index(drop=True)
+# 2013-2017 のタイトルリスト
+df2013_2017 = df.loc[df.loc[:,'Year']>2012].reset_index(drop=True)
+
 #
-df.head()
+swc = SipWordCloud()
+
+#
+swc.generate(df2008_2012)
+swc.generate(df2013_2017)

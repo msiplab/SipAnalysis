@@ -76,7 +76,7 @@ rep_words = [
     ['[Aa]daptive', u'適応'],
     ['[Ff]iltering', u'フィルタリング'],
     ['[Ff]ilters?', u'フィルタ'],
-    ['[Ss]ignal', u'信号'],
+    ['[Ss]ignals?', u'信号'],
     ['[Kk]ernel', u'カーネル'],
     ['[Pp]rojection', u'射影'],
     ['[Ee]stimation', u'推定'],
