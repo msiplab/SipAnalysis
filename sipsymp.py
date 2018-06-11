@@ -122,7 +122,7 @@ rep_words = [
     ['[Dd]irection', u'方向'],
     ['[Ee]fficient', u'効率的'],
     ['[Ii]mprovement', u'改善'],
-    ['[Cc]anceller'], u'キャンセラ']
+    ['[Cc]anceller', u'キャンセラ']
     ]
 
 stop_words = [
