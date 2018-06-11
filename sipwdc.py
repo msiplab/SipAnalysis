@@ -56,7 +56,7 @@ class SipWordCloud:
         wordcloud = self.__wdcObj.generate(text)
 
         # ワードクラウドの描画
-        plt.figure(figsize=(10, 8))
+        plt.figure(figsize=(20, 16))
         plt.imshow(wordcloud)
         plt.axis('off')
         plt.tight_layout()

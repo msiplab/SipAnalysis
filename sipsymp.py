@@ -137,7 +137,7 @@ rep_words = [
     ['[Cc]lassification',u'分類'],
     ['[Bb]anks?', u'バンク'],
     ['[Ss]moothing',u'平滑化'],
-    ['[Tr]acking',u'追跡'],
+    ['[Tt]racking',u'追跡'],
     ['[Rr]estoration',u'復元'],
     ['[Ee]xtraction',u'抽出'],
     ['[Mm]atrix',u'行列'],
