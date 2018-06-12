@@ -4,6 +4,8 @@
 
 信号処理シンポジウムの講演タイトルをワードクラウド表示するプログラム
 
+- GitHub デスクトップ表示なら、Jupyter Notebook で siprep.ipynb を閲覧可
+
 ## main_spsconfrep.py (Python3)
 
 信号処理分野の某国際会議の講演タイトルをワードクラウド化するプログラム。
